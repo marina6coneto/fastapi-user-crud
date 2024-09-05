@@ -65,6 +65,4 @@ Enum with possible values:
 - 'aluna'
 - 'instrutora'
 
-## License
 
-This project is licensed under the MIT License.
